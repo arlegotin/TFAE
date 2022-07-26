@@ -1,11 +1,17 @@
 [tool.poetry]
 name = "tfae"
-version = "0.1.0"
-description = ""
+version = "1.0.1"
+description = "TFAE it's a TensorFlow extension for building and training different types of autoencoders"
 authors = ["Artem Legotin <hello@artemlegotin.com>"]
+readme = "README.md"
+homepage = "https://github.com/arlegotin/TFAE"
+repository = "https://github.com/arlegotin/TFAE"
+keywords = ["tensorflow", "autoencoder", "variational"]
+license = "Apache-2.0"
 
 [tool.poetry.dependencies]
 python = ">=3.7,<=3.10"
+tensorflow = "^2.9.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

@@ -11,6 +11,9 @@ class GaussianKLDRegularizer(BaseRegularizer):
     KL-divergence between normal distibutions N(mean, exp(logvar)) and N(0, 1)
     """
 
+    def __init__(self, **kwargs):
+        super().__init__(parameters=2, **kwargs)
+
     def calc(self, mean, logvar):
         return 0.5 * tf.math.reduce_mean(
             tf.math.square(mean) + tf.math.exp(logvar) - logvar - 1

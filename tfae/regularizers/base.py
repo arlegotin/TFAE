@@ -8,7 +8,7 @@ class BaseRegularizer(tf.keras.regularizers.Regularizer):
     Inheriting classes should implement method "calc".
     """
 
-    def __init__(self, beta: float, parameters: int = 1):
+    def __init__(self, beta: float = 1.0, parameters: int = 1):
         self.beta = beta
         self.parameters = parameters
 
