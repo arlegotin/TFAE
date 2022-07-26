@@ -2,12 +2,12 @@
 This package is a [TensorFlow](https://tensorflow.org/) extension for building and training different types of autoencoders.
 
 ## Table of contents
-- [Motivation]()
-- [Current package]()
-- [Installation]()
-- [Usage]()
-- [API reference]()
-- [Contribution]()
+- [Motivation](#motivation)
+- [Current package](#current-package)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API reference](#api-reference)
+- [Contribution](#contribution)
 
 ## Motivation
 
@@ -305,3 +305,7 @@ scheduler = DASRScheduler(
     cycles=4,
 )
 ```
+
+## Contribution
+
+Feel free to create [issues](https://github.com/arlegotin/TFAE/issues) or open [pull-requests](https://github.com/arlegotin/TFAE/pulls).
