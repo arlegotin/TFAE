@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tfae"
-version = "1.0.1"
+version = "1.0.2"
 description = "TFAE it's a TensorFlow extension for building and training different types of autoencoders"
 authors = ["Artem Legotin <hello@artemlegotin.com>"]
 readme = "README.md"
