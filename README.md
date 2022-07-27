@@ -308,4 +308,4 @@ scheduler = DASRScheduler(
 
 ## Contribution
 
-Feel free to create [issues](https://github.com/arlegotin/TFAE/issues) or open [pull-requests](https://github.com/arlegotin/TFAE/pulls).
+Feel free to create [issues](https://github.com/arlegotin/TFAE/issues) or open [pull requests](https://github.com/arlegotin/TFAE/pulls).
