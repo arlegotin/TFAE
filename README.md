@@ -1,3 +1,6 @@
+[![PyPi Version](https://img.shields.io/pypi/v/tfae.svg)](https://pypi.org/project/tfae)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/tfae.svg)](https://pypi.org/pypi/tfae)
+
 # TensorFlow Autoencoders (TFAE)
 This package is a [TensorFlow](https://tensorflow.org/) extension for building and training different types of autoencoders.
 
@@ -75,8 +78,8 @@ Of course, it's possible to build deeper models and sophisticate training proces
 
 Check out more examples:
 
-- [Search similar movies using autoencoder](https://colab.research.google.com/drive/1RPX2j1q8EeMBc-QZBA667EiBsXSR34Bp?usp=sharing)
-- [Generating handwritten digits with Convolutional Variational Autoencoder](https://colab.research.google.com/drive/1Lt1haqMNomDL8B1KZKDe9sHZu6y4eUmG?usp=sharing)
+- [Search similar movies using autoencoder](https://colab.research.google.com/drive/1RPX2j1q8EeMBc-QZBA667EiBsXSR34Bp?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RPX2j1q8EeMBc-QZBA667EiBsXSR34Bp?usp=sharing)
+- [Generating handwritten digits with Convolutional Variational Autoencoder](https://colab.research.google.com/drive/1Lt1haqMNomDL8B1KZKDe9sHZu6y4eUmG?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lt1haqMNomDL8B1KZKDe9sHZu6y4eUmG?usp=sharing)
 
 or explore API in the following section.
 
